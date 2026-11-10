@@ -1,0 +1,29 @@
+# Physics IA writing and planning
+
+Based on the IB *Physics guide* (updated November 2024), printed pp. 28–32 and 66–75. The [IB Physics examiner instructions](https://ibpublishing.ibo.org/exinst/apps/exinst/index.html?chapter=6&doc=EX_instructions_2027_e&part=11) give additional context on moderation and suitable investigations.
+
+## Choose and pilot the investigation
+
+- Formulate a question that names the independent and dependent variables (or two correlated variables), the physical system and any critical conditions. Specify range and measurement details where they sharpen the question. Use directly relevant theory to predict the relationship and identify what a fitted parameter, curve or trend can test. Adapt a familiar practical with a meaningful change in question or scope.
+- Choose a feasible source of quantitative data. Laboratory work, fieldwork, a database, modelling or simulation can work. For secondary data, specify source, inclusion rules, sampling, variable definitions, comparability and available uncertainty. For a simulation, document the model, inputs, settings and resolution, then identify what its assumptions permit the student to conclude.
+- Pilot the measurement or inspect a small data sample. Check that the expected change is distinguishable from noise or instrument resolution. Use this evidence to justify range, spacing, precision and replication. Specify how controls are implemented and checked. Agree on relevant safety, ethics and environmental measures with the teacher before collecting data.
+- Make each investigation individual. Optional collaboration in groups of up to three requires a unique research question and a distinct raw dataset for each student. Students can use different independent variables, different dependent variables with a shared independent variable, or different selections from a larger shared dataset. Each student writes the full report independently.
+
+## Build the report from the evidence
+
+| Section | What to develop |
+| --- | --- |
+| Research design | Connect the question to the relevant physics and justify the method, range, repeats and controls. Give materials, instrument resolution and the implemented steps or selection rules in enough detail to reproduce the work. |
+| Data analysis | Present traceable raw and processed data with units, uncertainties and consistent precision. Explain transformations and justify the fit and any exclusion of data. Show a representative processing example or describe the computational method sufficiently to trace results. |
+| Conclusion | Directly answer the question with the numerical relationship or other relevant result, units, uncertainty and the range studied. Compare with a traceable model, published value or other accepted scientific context under comparable conditions. Explain what the difference or agreement supports given the uncertainties. |
+| Evaluation | Connect each important weakness or limitation to evidence, its likely effect on the results and its relative impact. Propose a feasible change and explain how it would improve the measurement, design or scope of the conclusion. |
+
+For uncertainty analysis, distinguish resolution, repeat variability and systematic effects. Document the basis for each uncertainty and propagate it through the actual calculation using an appropriate, justified convention. If using maximum uncertainty estimates, add absolute uncertainties for sums and differences and relative uncertainties for products and quotients, with the magnitude of the exponent multiplying the relative uncertainty for a power. Label graph axes with quantities and units. Use error bars and a slope or intercept uncertainty when relevant. If using extreme acceptable lines, check consistency with the error bars and state how the extremes were converted to uncertainty. Linearize only when the model justifies it and propagate uncertainty through any transformation. Relate uncertainty and possible systematic bias to the strength and scope of the conclusion.
+
+For example, a student could extend the standard pendulum practical by testing how release angle changes the period at a fixed length. Pilot video timing to find an angle range where the predicted change exceeds measurement uncertainty, and track how damping changes the amplitude over the cycles used for timing. Compare the measured period trend with a cited finite-amplitude model and the small-angle prediction. In the evaluation, use the observed amplitude decay to judge whether averaging across many cycles biases the period for the stated release angle.
+
+## Schedule and report details
+
+For a project plan, work backward from the deadline and assign a checkable output to each stage: question and theory, method and pilot, full data collection, processed data and uncertainty, then draft and revision. Reserve time to adjust a weak design after the pilot. If data already exist, start by auditing whether those data can answer the question before planning additional measurements.
+
+At the beginning of the report include the investigation title, candidate personal code, group members' personal codes when applicable, and word count. The 3,000-word limit excludes charts and diagrams, data tables, equations and calculations, citations and references, the bibliography, and headers. A cover or contents page is optional. Cite external theory, data and comparison values with enough detail to locate them.
