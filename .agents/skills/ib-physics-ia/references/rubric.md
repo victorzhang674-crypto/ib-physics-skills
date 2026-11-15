@@ -15,3 +15,18 @@ Coaching summary of the four criteria in the IB *Physics guide* (updated Novembe
 2. Distinguish a confirmed omission in a complete report from evidence unavailable in the supplied draft or unreadable attachment. For incomplete material, identify pending judgments and give provisional marks only where useful. Avoid a definitive total when criteria cannot be assessed.
 3. Give a row per criterion with the estimated mark, a page, table or paragraph reference, why the evidence fits that band, and the most consequential improvement. For example, identify whether a processing error prevents a valid conclusion or just limits its precision, then explain which recalculation would address it. In Evaluation, distinguish a design weakness such as friction biasing the slope from a scope limitation such as the studied range. Assess the relative impact and the proposed fix using the student's actual method and results.
 4. Sum all four whole marks for a complete assessment and report the estimate out of 24. Translate it into a short revision plan ordered by the effects on the investigation. A component score alone cannot establish the student's final course grade.
+5. When asked for draft feedback, also give numbered, location-specific comments like a teacher's annotations (section or paragraph, issue, fix), checked against the [section checklist](checklist.md). Keep each comment actionable.
+
+## Legacy criteria and exemplars
+
+Many school marking grids, guides and exemplars predate 2025 and use five criteria: Personal engagement (2), Exploration (6), Analysis (6), Evaluation (6) and Communication (4). Identify which scheme a supplied document uses and score against the current four criteria. Map legacy feedback as follows:
+
+| Legacy criterion | Current home |
+| --- | --- |
+| Exploration (question, background, method, factors, safety) | Research design |
+| Analysis (raw data, processing, uncertainties) | Data analysis |
+| Analysis (interpretation of processed data) and Evaluation (conclusion, scientific context) | Conclusion |
+| Evaluation (weaknesses, limitations, improvements, extensions) | Evaluation |
+| Personal engagement and Communication | No separate marks. Clear structure, correct conventions and justified independent choices still support every criterion. |
+
+Use legacy exemplars for structure and technique. Do not carry over requirements that no longer apply, such as a stated personal reason for the topic, and do not treat a legacy score as a current mark.
